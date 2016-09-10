@@ -3,6 +3,13 @@
 	"EngineAssociation": "4.12",
 	"Category": "",
 	"Description": "",
+	"Modules": [
+		{
+			"Name": "SpaceSimulator",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
 	"TargetPlatforms": [
 		"WindowsNoEditor"
 	]
